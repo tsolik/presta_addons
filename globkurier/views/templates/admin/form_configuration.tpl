@@ -77,7 +77,7 @@
 						</div>
 					{/if}
 				{/if}
-				<div class="box60" style="width: 100%; float: left; padding-top: 0px;">
+				<div class="box60" style="float:left; width: 100%; padding-top: 0px;">
 					<form class="gk-form" action="" method="post">
 						<table class="form-table" border="0" cellpadding="0" cellspacing="0" width="100%">
 							<tr align="center">
